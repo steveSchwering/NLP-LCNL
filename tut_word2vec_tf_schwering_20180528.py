@@ -1,0 +1,1 @@
+# Implementation of tensorflow tutorial for word2vec
